@@ -8,7 +8,9 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.outlined.Home
 import androidx.compose.material.icons.outlined.Person2
+import androidx.compose.material.icons.outlined.QrCode2
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Icon
@@ -28,12 +30,13 @@ fun NavBar(modifier: Modifier = Modifier) {
     Row(
         modifier = modifier
             .fillMaxWidth()
+            .background(Color.White)
             .padding(horizontal = 30.dp)
-            .background(color),
+        ,
         horizontalArrangement = Arrangement.SpaceBetween
     ) {
-        MyButton(modifier = modifier)
-        MyButton(modifier = modifier)
+        MyButton(modifier = modifier, icon = Icons.Outlined.Home, text = "Home")
+        MyButton(modifier = modifier, icon = Icons.Outlined.QrCode2, text = "Scan")
         MyButton(modifier = modifier)
 
     }

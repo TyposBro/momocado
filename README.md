@@ -1,4 +1,4 @@
-# MomoCado: Nutritional Guide for Expecting and New Mothers
+# Mamacado: Nutritional Guide for Expecting and New Mothers
 
 ![splash](https://github.com/user-attachments/assets/6628f19a-0d5d-42fb-aeee-7249796efe8b) ![home1](https://github.com/user-attachments/assets/6b15bcba-e252-4bfe-8f65-b4dc0a66cc7d) 
 

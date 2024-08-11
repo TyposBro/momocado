@@ -1,10 +1,13 @@
 # MomoCado: Nutritional Guide for Expecting and New Mothers
 
+![splash](https://github.com/user-attachments/assets/6628f19a-0d5d-42fb-aeee-7249796efe8b) ![home1](https://github.com/user-attachments/assets/6b15bcba-e252-4bfe-8f65-b4dc0a66cc7d) 
+
 ## App Description
 
 MomoCado is an innovative Android application developed for the Junction Asia 2024 Hackathon,
 specifically for the MommyTalk track. This app serves as a comprehensive nutritional guide for
 pregnant women and new mothers, leveraging cutting-edge technology to provide personalized dietary
+
 advice and food assessments.
 
 ## Key Features
@@ -67,3 +70,11 @@ advice and food assessments.
 
 * If you encounter issues, check the project's README for specific setup instructions
 * Ensure your Android Studio and Gradle versions are compatible with the project
+
+![bar code scan](https://github.com/user-attachments/assets/1ebd9609-1adc-427f-b7c5-1f790b815222) ![be careful](https://github.com/user-attachments/assets/d2b6618e-877c-472a-b37a-94c30d70ce8f)
+
+
+![menu scan](https://github.com/user-attachments/assets/22908082-ce86-4d61-834f-c10d91d8c746) ![not safe](https://github.com/user-attachments/assets/a818f645-492a-4ae6-bf77-f69ec5a009dc)
+
+
+![chat bot](https://github.com/user-attachments/assets/adedb08a-50a3-4725-b214-07585b3519a7) ![safe](https://github.com/user-attachments/assets/e8e4ac91-dd5d-48e1-b782-5062942d1d7f)

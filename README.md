@@ -6,9 +6,7 @@
 
 MomoCado is an innovative Android application developed for the Junction Asia 2024 Hackathon,
 specifically for the MommyTalk track. This app serves as a comprehensive nutritional guide for
-pregnant women and new mothers, leveraging cutting-edge technology to provide personalized dietary
-
-advice and food assessments.
+pregnant women and new mothers, leveraging cutting-edge technology to provide personalized dietary advice and food assessments.
 
 ## Key Features
 
